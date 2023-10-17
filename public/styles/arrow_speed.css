@@ -1,11 +1,15 @@
-#guide-container{
+#guide-container {
   text-align: center;
 }
-.guide-description{
+.guide-description {
   margin-bottom: 50px;
   line-height: 150%;
 }
-.arrow{
+.arrow {
   font-size: 2rem;
   padding: 0 10px;
+}
+
+img {
+  pointer-events: none;
 }
